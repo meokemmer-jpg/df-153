@@ -1,0 +1,20 @@
+{
+  "cross_entity_total_eur": 0,
+  "df": "DF-153",
+  "growth_per_entity": {
+    "9dots": 0,
+    "heylou": 0,
+    "lexvance": 0
+  },
+  "heylou_revenue_eur": 0,
+  "iso_timestamp": "2026-05-24T14:19:00.693631+00:00",
+  "k17_pre_action_verification": {
+    "env_tag": "local",
+    "missing_anchors": [],
+    "ok": true
+  },
+  "lexvance_revenue_eur": 0,
+  "ndots_revenue_eur": 0,
+  "source": "mock",
+  "welle": "25"
+}
