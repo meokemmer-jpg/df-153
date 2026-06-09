@@ -1,0 +1,12 @@
+{
+  "df": "df-153",
+  "ts": "2026-06-08T19:56:06.496364+00:00",
+  "has_src": true,
+  "parse_ok": true,
+  "has_tests": true,
+  "test_ran": true,
+  "tests_passed": true,
+  "code_hash": "1b8421ecb40332e4",
+  "python": "3.14.4",
+  "crux": "[CRUX-MK]"
+}
