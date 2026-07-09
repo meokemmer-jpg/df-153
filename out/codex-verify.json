@@ -1,0 +1,5 @@
+{
+  "verdict": "HOLDS",
+  "reason": "Der Test ruft die echten Aggregationsfunktionen mit Mehr-Entity- und adversarialen Inputs auf und beweist dabei getrennte Entity-Buckets, korrekte Totals sowie Ablehnung/False-Status fuer Inter-Entity-Transfer.",
+  "ts": "2026-07-08T15:07:09.438364+00:00"
+}
