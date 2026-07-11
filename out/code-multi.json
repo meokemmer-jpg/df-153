@@ -1,6 +1,6 @@
 {
   "df": "df-153",
-  "ts": "2026-07-06T06:38:54.154253+00:00",
+  "ts": "2026-07-10T09:19:07.989222+00:00",
   "crux": "[CRUX-MK]",
   "winner_provider": "incumbent-kept",
   "winner_tests_passed": true,
@@ -26,21 +26,21 @@
       "n_assert": null,
       "coverage_pct": null,
       "q": 0.0,
-      "error": "kein 2-Block-Output (nach Retry)"
+      "error": "[codex-Fehler: [Errno 2] No such file or directory: 'codex']"
     },
     {
-      "provider": "sonnet",
-      "parse_ok": false,
+      "provider": "local",
+      "parse_ok": true,
       "tests_passed": false,
       "n_tests": 0,
-      "n_assert": null,
+      "n_assert": 0,
       "coverage_pct": null,
-      "q": 0.0,
-      "error": "kein 2-Block-Output (nach Retry)"
+      "q": null,
+      "error": "test parse: invalid syntax (<unknown>, line 6)"
     }
   ],
   "canonical_verify": {
     "parse_ok": true,
-    "tests_passed": false
+    "tests_passed": true
   }
 }
